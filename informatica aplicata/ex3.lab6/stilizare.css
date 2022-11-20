@@ -1,0 +1,26 @@
+header{
+	height: 40px
+    background-color:#bf227b;
+}
+body{	
+   background-image: url("catalog.jpg");
+	text-align: absolute;
+	align-items:absolute;
+	height:100%;
+	width:100%;
+	margin-top:7%;
+}
+ul{
+	font-family:'Lucida Sans','Lucida Sans Regular','Lucida Sans Unicode', Geneva, verdan, sans-serif;
+	color: #bf227b;
+}
+h1{
+	font-family:"Times New Roman", Times, serif;
+	font-size:xx-large;
+	color:#fa111d;
+}
+a{
+	font-size:large;
+	border:2px;
+}
+	
